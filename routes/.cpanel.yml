@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/coreinfo/public_html/
+    - export DEPLOYPATH=/home/coreinfo/demoadmin.coreinfo.xyz/
     - /bin/cp -R images $DEPLOYPATH
